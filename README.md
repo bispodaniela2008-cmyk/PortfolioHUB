@@ -18,7 +18,3 @@ Oiee! Este é meu portfólio acadêmico e pessoal criado para organizar meus pro
 🎯 Objetivo
 Desenvolver habilidades em versionamento, organização de projetos e desenvolvimento web.
 
-
-🔗 Links
-- GitHub Pages: em breve
-- LinkedIn: em breve
